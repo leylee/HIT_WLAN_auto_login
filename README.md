@@ -15,8 +15,7 @@ python3-requests
 安装需在联网的状态下进行. 
 
 ```sh
-cd ${DOWNLOADS}
-unzip HIT_WLAN_auto_login.zip
+git clone https://github.com/leylee/HIT_WLAN_auto_login
 cd HIT_WLAN_auto_login
 ./auto_config.sh
 ```
