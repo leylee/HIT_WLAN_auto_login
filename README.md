@@ -25,3 +25,10 @@ cd HIT_WLAN_auto_login
 若未安装 python3, 安装脚本会引导您安装 homebrew, 然后安装 python3.
 
 拷贝文件时, 可能需要用户密码.
+
+安装过程中, 可选择是否关闭 WiFi 登录的系统弹窗.
+
+## 移除
+```sh
+./remove.sh
+```
