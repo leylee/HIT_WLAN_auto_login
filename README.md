@@ -20,8 +20,6 @@ cd HIT_WLAN_auto_login
 ./auto_config.sh
 ```
 
-其中 `${DOWNLOADS}` 为你的下载路径.
-
 安装脚本会询问您的学号与校园网密码.
 
 若未安装 python3, 安装脚本会引导您安装 homebrew, 然后安装 python3.
