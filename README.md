@@ -28,7 +28,7 @@ cd HIT_WLAN_auto_login
 
 拷贝文件时, 可能需要用户密码.
 
-安装过程中, 可选择是否关闭 WiFi 登录的系统弹窗.
+安装过程中, 可选择是否关闭 WiFi 登录的系统弹窗. **此项功能仅在关闭 SIP 后生效, [点击查看如何关闭 SIP](https://zhuanlan.zhihu.com/p/35780058)**
 
 ## 移除
 ```sh
